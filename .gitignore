@@ -1,0 +1,9 @@
+# Sanal ortam klasörü
+venv/
+
+# SQLite veritabanı dosyası
+data/pro_mana.db
+
+# Ek olarak, genellikle Python projelerinde gereksiz olanlar
+__pycache__/
+*.pyc
