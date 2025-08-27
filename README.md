@@ -72,5 +72,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or support, please contact [your.email@example.com](mailto:m.salihcopur@gmail.com).
+For questions or support, please contact (mailto:m.salihcopur@gmail.com).
 >>>>>>> 0739664 (İlk commit: Projeyi ve README dosyasını ekledim)
