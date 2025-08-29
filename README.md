@@ -57,10 +57,11 @@ Project Management AI Assistant is an intelligent desktop application designed t
 
 - Ask questions about your projects, tasks, or team in natural language.
 - The AI will generate and execute the appropriate SQL query, displaying results in the interface.
+- Queries must begin with “db:”.
 - Example queries:
-    - "List all projects started in 2024."
-    - "Show all tasks assigned to Fatma Kaya."
-    - "Which customers have more than one project?"
+    - db:"List all projects started in 2024."
+    - db:"Show all tasks assigned to Fatma Kaya."
+    - db:"Which customers have more than one project?"
 
 ## Contributing
 
